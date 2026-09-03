@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Shresth Jha</h1>
-<h3 align="center">🚀 Data Science & AI Enthusiast | Building Intelligent Systems</h3>
+<h3 align="center">🚀 Data Science & AI Student | Building Intelligent Systems</h3>
 
 <p align="center">
   <em>Pursuing I-MBA (Data Science & AI) at IIT Mandi</em><br>
